@@ -1,4 +1,4 @@
-# hathimananportfolio.github.io
+# hathimanan.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
