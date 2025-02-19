@@ -45,7 +45,7 @@ nav {
 
 nav ul {
     list-style: none;
-    padding: 0;
+    padding: 10px 0;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -135,13 +135,15 @@ footer {
         position: absolute;
         top: 60px;
         left: 0;
-        padding: 10px 0;
+        padding: 20px 0;
         box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     }
 
     nav ul li {
         margin: 10px 0;
     }
+
+    nav ul li a { padding: 8px 15px; }
 
     .hamburger {
         display: flex;
